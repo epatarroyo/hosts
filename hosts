@@ -19,6 +19,8 @@
 # Redes sociales
 127.0.0.1	facebook.com
 127.0.0.1	www.facebook.com
+127.0.0.1	twitter.com
+127.0.0.1	www.twitter.com
 
 # Entretenimiento
 127.0.0.1	youtube.com
