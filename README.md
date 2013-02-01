@@ -9,8 +9,8 @@ Archivo hosts para aumentar la productividad (Metodo radical)
 1. Copie el contenido del archivo hosts de este repositorio en el archivo hosts de su maquina
 1. A trabajar
 
-**Resultados garantizados desde el primer dia de uso**
-Puede generar un leve [sindrome de abstinencia](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia/ "Sindrome de abstinencia en Wikipedia")
+**Resultados garantizados desde el primer día de uso**
+Puede generar un leve [síndrome de abstinencia](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia/ "Síndrome de abstinencia en Wikipedia")
 
 ## Recursos
 
@@ -36,3 +36,5 @@ $ su vi /etc/hosts
 
 ## Licencia
 GNU General Public License version 2 or later
+---
+There's no place like 127.0.0.1
