@@ -4,10 +4,10 @@ hosts
 Archivo hosts para aumentar la productividad (Metodo radical)
 **Uselo bajo su propio riesgo**
 
-# Ubique el archivo hosts en su sistema http://en.wikipedia.org/wiki/Hosts_(file)#Location_in_the_file_system
-# Edite el archivo con permisos de administrador
-# Copie el contenido del archivo hosts de este repositorio en el archivo hosts de su maquina
-# A trabajar
+1. Ubique el archivo hosts en su sistema http://en.wikipedia.org/wiki/Hosts_(file)#Location_in_the_file_system
+1. Edite el archivo con permisos de administrador
+1. Copie el contenido del archivo hosts de este repositorio en el archivo hosts de su maquina
+1. A trabajar
 
 **Resultados garantizados desde el primer dia de uso**
 
