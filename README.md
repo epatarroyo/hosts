@@ -35,6 +35,8 @@ $ su vi /etc/hosts
 * http://www.lagmonster.org/docs/vi.html [en ingles]
 
 ## Licencia
+
 GNU General Public License version 2 or later
+
 ---
 There's no place like 127.0.0.1
