@@ -10,7 +10,7 @@ Archivo hosts para aumentar la productividad (Metodo radical)
 1. A trabajar
 
 **Resultados garantizados desde el primer día de uso**
-Puede generar un leve [síndrome de abstinencia](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia/ "Síndrome de abstinencia en Wikipedia")
+Puede generar un leve [síndrome de abstinencia](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia "Síndrome de abstinencia en Wikipedia")
 
 ## Recursos
 
