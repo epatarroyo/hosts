@@ -15,6 +15,8 @@
 127.0.0.1	www.caracol.com.co
 127.0.0.1	noticiascaracol.com
 127.0.0.1	www.noticiascaracol.com
+127.0.0.1 semana.com
+127.0.0.1 www.semana.com
 
 # Redes sociales
 127.0.0.1	facebook.com
@@ -25,8 +27,6 @@
 # Entretenimiento
 127.0.0.1	youtube.com
 127.0.0.1	www.youtube.com
-127.0.0.1	diarionocturno.com
-127.0.0.1	www.diarionocturno.com
 
 # Porno
 127.0.0.1	youporn.com
